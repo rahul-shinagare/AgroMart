@@ -1,0 +1,55 @@
+# ==========================
+# Eclipse / Spring Tool Suite
+# ==========================
+.metadata/
+.recommenders/
+.project
+.classpath
+.settings/
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# IntelliJ IDEA
+# ==========================
+.idea/
+
+# ==========================
+# Spring Boot / Maven
+# ==========================
+AgroMart/target/
+
+# Maven Wrapper (KEEP THESE FILES)
+# Do NOT ignore .mvn or mvnw files.
+# They should be committed.
+
+# ==========================
+# React
+# ==========================
+agromart-frontend/node_modules/
+agromart-frontend/build/
+agromart-frontend/dist/
+# React
+agromart-realworld-frontend/node_modules/
+agromart-realworld-frontend/dist/
+agromart-realworld-frontend/build/
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
